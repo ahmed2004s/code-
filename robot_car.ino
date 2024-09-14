@@ -1,7 +1,7 @@
 /**************************MOSA2 robot****************************************************
 breif:MOSA2 robot
-names: arwa gamal
-       ahmed osama
+names: ahmed osama
+       arwa gamal
        mayar
       sara
       omar
@@ -12,10 +12,7 @@ Date : 9/7/2024
 /**************************library files start****************************************************/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
-#define in1 14 //L298n Motor Driver pins.
-#define in2 15
-#define in3 16
-#define in4 17
+
 /**************************library files end****************************************************/
 
 /**************************pins definitio start****************************************************/
@@ -344,11 +341,11 @@ void brakeOff() {
 /**************************loop end****************************************************/
 /**************************MOSA2 robot****************************************************
 breif:MOSA2 robot
-names: arwa gamal
-       ahmed osama
-       mayar
-      sara
-      omar
+names: ahmed osama
+       arwa gamal
+        mayar
+        sara
+        omar
 Date of last change : 11/9/2024
 
 **************************MOSA2 robot****************************************************/
